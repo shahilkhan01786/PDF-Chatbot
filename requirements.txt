@@ -1,0 +1,8 @@
+flask
+flask-cors
+pdfplumber
+sentence-transformers
+faiss-cpu
+numpy
+groq
+python-dotenv
